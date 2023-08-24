@@ -1,2 +1,2 @@
 # son
-Portal web de informacion de peliculas y series
+Portal web de informacion de peliculas y series. Es un proyecto final sin finalizar, realiza todas las funciones previstas como recuento de tiempo visulalizado por el usuario en peliculas y series que el mismo haya selecionado, como poder ver informacion tanto de las mismas peliculas y series que busque. La aplicacion tiene dos roles de usuario, uno de Usuario y otro de Administrador, siendo necesario el registrarse y poder haceder al mismo.
