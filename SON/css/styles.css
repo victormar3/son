@@ -1,0 +1,31 @@
+.form-registro{
+    width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+  box-shadow: 0 0 20px rgb(0, 0, 0, 0.2);
+  border-radius: 25px;
+}
+.input-icon {
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    left: 20px;
+    top: 50%;
+    transform: translateY(-55%);
+}
+input{
+    color: #0d0d0d;
+    padding: 20px 15px 20px 60px;
+    width: 100%;
+    border-radius: 25%;
+    border: 0;
+    box-shadow: 0 0 20px rgb(192, 203, 251, 0.4);
+    outline: none;
+    font-size: 16px;
+}
+.input-wrapper {
+    position: relative;
+    width: 305px;
+    margin-bottom: 35px;
+}
